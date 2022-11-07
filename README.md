@@ -1,5 +1,8 @@
 # Relationship-Bettwen-Google-Trend-and-Vaccine-Stocks
 Full Version: https://medium.com/@wwy99/exploring-the-relationship-between-google-trends-and-vaccine-stocks-816b12acf883
+
+
+
 Abstract
 Background:
 During the global pandemic coronavirus (Covid-19) outbreak in 2019, the world was shocked and in desperate need of a vaccine to overcome the disease. Nowadays and especially during the time of pandemic and quarantine, with the rapid development of the internet, a vast amount of data are being created every single day due to people’s high reliance on electronic devices. This shift in human society and lifestyle also creates an impact on the stock market which is highly correlated with information and sentiments. Google, as one of the biggest technology and internet company in the world, have tremendous users and data. Investigating the google trends of virus vaccines might provide a better insight into how the internet impacts the stock market.
